@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="grid"></div>
+    <button id="next">Next generation</button>
+    <script>
+      let grid = document.querySelector("#grid");
+      function generateGrid() {
+        let table = document.createElement("table");
+        grid.appendChild(table);
+        for (let i = 0; i < 15; i++) {
+          let tr = document.createElement("tr");
+          for (let j = 0; j < 15; j++) {
+            table.appendChild(tr);
+            let input = document.createElement("input");
+            input.type = "checkbox";
+            input.checked = Math.random() >= 0.5;
+            tr.appendChild(input);
+          }
+        }
+        console.log(table);
+        return table;
+      }
+
+      generateGrid();
+    </script>
+  </body>
+</html>
