@@ -4,3 +4,6 @@
 [submodule "the-road-to-react"]
 	path = the-road-to-react
 	url = https://github.com/IrakliAmbroladze/the-road-to-react.git
+[submodule "modern-web-applications-with-NextJS"]
+	path = modern-web-applications-with-NextJS
+	url = https://github.com/IrakliAmbroladze/modern-web-applications-with-NextJS.git
