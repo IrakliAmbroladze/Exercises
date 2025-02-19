@@ -7,3 +7,6 @@
 [submodule "modern-web-applications-with-NextJS"]
 	path = modern-web-applications-with-NextJS
 	url = https://github.com/IrakliAmbroladze/modern-web-applications-with-NextJS.git
+[submodule "the-rust-programming-language"]
+	path = the-rust-programming-language
+	url = https://github.com/IrakliAmbroladze/the-rust-programming-language.git
