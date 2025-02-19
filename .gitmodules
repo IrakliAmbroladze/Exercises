@@ -10,3 +10,6 @@
 [submodule "the-rust-programming-language"]
 	path = the-rust-programming-language
 	url = https://github.com/IrakliAmbroladze/the-rust-programming-language.git
+[submodule "learn-git-by-Rick-Umali"]
+	path = learn-git-by-Rick-Umali
+	url = https://github.com/IrakliAmbroladze/learn-git-by-Rick-Umali.git
