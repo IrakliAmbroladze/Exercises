@@ -1,3 +1,6 @@
 [submodule "learning-nodejs-development"]
 	path = learning-nodejs-development
 	url = https://github.com/IrakliAmbroladze/learning-nodejs-development.git
+[submodule "the-road-to-react"]
+	path = the-road-to-react
+	url = https://github.com/IrakliAmbroladze/the-road-to-react.git
