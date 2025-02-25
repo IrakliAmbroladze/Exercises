@@ -13,3 +13,6 @@
 [submodule "learn-git-by-Rick-Umali"]
 	path = learn-git-by-Rick-Umali
 	url = https://github.com/IrakliAmbroladze/learn-git-by-Rick-Umali.git
+[submodule "eloquent-JavaScript-by-Marijn-Haverbeke"]
+	path = eloquent-JavaScript-by-Marijn-Haverbeke
+	url = https://github.com/IrakliAmbroladze/eloquent-JavaScript-by-Marijn-Haverbeke.git
