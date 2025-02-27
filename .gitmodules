@@ -16,3 +16,6 @@
 [submodule "eloquent-JavaScript-by-Marijn-Haverbeke"]
 	path = eloquent-JavaScript-by-Marijn-Haverbeke
 	url = https://github.com/IrakliAmbroladze/eloquent-JavaScript-by-Marijn-Haverbeke.git
+[submodule "effective-TypeScript-by-Dan-Vanderkam"]
+	path = effective-TypeScript-by-Dan-Vanderkam
+	url = https://github.com/IrakliAmbroladze/effective-TypeScript-by-Dan-Vanderkam.git
