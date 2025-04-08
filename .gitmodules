@@ -16,3 +16,6 @@
 [submodule "effective-TypeScript-by-Dan-Vanderkam"]
 	path = effective-TypeScript-by-Dan-Vanderkam
 	url = https://github.com/IrakliAmbroladze/effective-TypeScript-by-Dan-Vanderkam.git
+[submodule "efficient-node"]
+	path = efficient-node
+	url = https://github.com/IrakliAmbroladze/efficient-node.git
