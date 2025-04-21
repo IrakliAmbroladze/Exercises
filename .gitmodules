@@ -19,3 +19,6 @@
 [submodule "efficient-node"]
 	path = efficient-node
 	url = https://github.com/IrakliAmbroladze/efficient-node.git
+[submodule "fluent-react"]
+	path = fluent-react
+	url = https://github.com/IrakliAmbroladze/fluent-react.git
