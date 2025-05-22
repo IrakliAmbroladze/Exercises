@@ -22,3 +22,6 @@
 [submodule "fluent-react"]
 	path = fluent-react
 	url = https://github.com/IrakliAmbroladze/fluent-react.git
+[submodule "real-world-next.js"]
+	path = real-world-next.js
+	url = https://github.com/IrakliAmbroladze/real-world-next.js.git
